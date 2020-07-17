@@ -31,13 +31,13 @@ Besides the vehicles, I may explain a thesis.
 
 ## Vehicles
 
-* [High Dividend Yield (VYM)](#vym)
-* [World Total Return (VT)](#vt)
+* [High Dividend Yield (VYM)](#high-dividend-yield-vym)
+* [World Total Return (VT)](#world-total-return-vt)
 * Corporate bonds
 * Bitcoin
 * Gold
 
-### High Dividend Yield (VYM)<a name="vym"/>
+### High Dividend Yield (VYM)
 
 ![YVM from 2007 to 2020](images/vym.png)
 
@@ -45,7 +45,7 @@ Investing in VYM in 2007 before the Great Financial Crisis, would still have all
 
 You may invest in [this](https://investor.vanguard.com/etf/profile/VYM) via Vanguard in Singapore, which has the benefit of not paying taxes on profits until profits are brought back into the Philippines.
 
-### World Total Return (VT)<a name="vt"/>
+### World Total Return (VT)
 
 Also [available](https://investor.vanguard.com/etf/profile/VT) via Vanguard.
 
