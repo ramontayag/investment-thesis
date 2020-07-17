@@ -39,7 +39,7 @@ Besides the vehicles, I may explain a thesis.
 
 ### High Dividend Yield (VYM)<a name="vym"/>
 
-![YVM from 2007 to 2020](images/vym.ong)
+![YVM from 2007 to 2020](images/vym.png)
 
 Investing in VYM in 2007 before the Great Financial Crisis, would still have allowed $3M to grow to $10.4M in 2020, excluding the yield, which would have given you $90k per year in 2007 and $310k per year in 2020.
 
