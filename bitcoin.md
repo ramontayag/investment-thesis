@@ -54,7 +54,7 @@ Although I can go further, the thoughts I have in my head are years' worth and a
 
 # Further Reading
 
-Here are the articles
+Here are the articles I find most relevant, though these are far from everything that has helped me reach my current opinion on the matter.
 
 - Lay person: [Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 - Technologist & macro economist: [Price of Tomorrow](https://www.amazon.com/Price-Tomorrow-Deflation-Abundant-Future/dp/1999257405)
