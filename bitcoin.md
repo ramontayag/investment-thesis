@@ -23,7 +23,7 @@ As always, there are some people that see the writing on the wall, and these peo
 
 Will people move to bitcoin? They are. Will the central banks of the world have bitcoin in their balance sheets like they have gold? I do not know.
 
-In one respect, I doubt it. They will likely create a version of Bancor for the 21st century, because they want to be in control of the money supply and continue their mission on this earth.
+In one respect, I doubt it. They will likely create a version of [Bancor](https://en.wikipedia.org/wiki/Bancor) for the 21st century, because they want to be in control of the money supply and continue their mission on this earth.
 
 However, Bitcoin is a grassroots movement, and government is made up of individuals. The iPhone in the enterprise was a grassroots movement as well. It worked because the individuals insisted on owning them personally, and then brought them into the workplace. Though Apple didn't have enterprise contracts like Blackberry did, where is Blackberry today? If a significant portion of people in government own bitcoin and the people own bitcoin as well, thus causing a good part of the economic transactions occurring in bitcoin, then would central banks start adding it to their balance sheets?
 
@@ -42,7 +42,7 @@ I think Bitcoin is the most likely winner for a grassroots chosen money because 
 - Censorship resistant. You only need an internet connection to send bitcoin. You do not need anyone's permission. You do not need to submit identifying documents to hold it. Those that know how have side-stepped the authoritarian capital controls in countries like Venezuela and Argentina, notorious for the current currency collapse.
 - Counterfeit-proof.
   - You can't create a fake bitcoin.
-  - It is also trivially easy to proove of reserves: you can be mathematically proove certain of the bitcoins they held in a bank and have a control over. If rehypthecation is part of the business model, you can know for certain what percentage is rehypothecated.
+  - It is also trivially easy to proove of reserves: you can be mathematically proove certain of the bitcoins they held in a bank and have a control over. If [rehypthecation](https://www.investopedia.com/terms/r/rehypothecation.asp) is part of the business model, you can know for certain what amount institutions have in custody.
 
 See this chart:
 
