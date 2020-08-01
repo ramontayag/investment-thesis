@@ -63,7 +63,7 @@ Questions:
 
 Though bitcoin is a non-yielding asset, in the world of negative interest rates and central bank policies of flooding the economy with money, having a hard-capped supply (only 21 million bitcoins will exist, ever), immutable, global (fairly liquid in many markets), and decentralized (no one controls it, censorship-resistant) store of value is increasingly being perceived as an insurance policy against inflation (or credit deflation if you will).
 
-I'm bullish on bitcoin in the short term, and and in the long term. I owe you an explanation here, and I will put it on a separate document.
+I'm bullish on bitcoin in the short term, and and in the long term. I owe you an explanation here, and I will put it on a [separate document](bitcoin.md).
 
 ### Gold
 
