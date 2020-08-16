@@ -20,6 +20,8 @@ Money contributes to the rise and fall of empires. Those in power have always in
 
 As always, there are some people that see the writing on the wall, and these people move to a better form of money. This is the Gresham Law, in effect. It is this movement we're seeing today: people are moving to a better form of money fit for our modern times.
 
+Bitcoin is a [store of wealth, not an investment](https://twitter.com/saifedean/status/1291699962074587137?s=20) (yes, I'd still the phrase "invest in bitcoin"). It does not generate cashflow.
+
 # Is the world interested?
 
 Will people move to bitcoin? They are. Will the central banks of the world have bitcoin in their balance sheets like they have gold? I do not know.
