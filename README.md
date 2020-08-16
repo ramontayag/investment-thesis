@@ -26,6 +26,8 @@ As you know, I also have bitcoin. If bitcoin follows its pattern, and there is n
 
 ## Investing
 
+### Definition (not dictionary)
+
 Investing is basically:
 
 1. Theory explains behaviour of an instrument
@@ -34,11 +36,17 @@ Investing is basically:
 
 This is solid advice I have gotten from one of you, but this write up will not include quantitive data.
 
+### Rules of Thumb
+
+1. Know timeframe. Plan out when you need funds back. Buying a house? That's a reason.
+2. People get it wrong. Investment pros are on top of the market, but they're never right all the time.
+
 ## Vehicles
 
 * [High Dividend Yield (VYM)](#high-dividend-yield-vym)
 * [World Total Return (VT)](#world-total-return-vt)
 * Corporate bonds
+* Private Equity
 * Bitcoin
 * Gold
 
@@ -61,9 +69,13 @@ Ayala, among other large corporations, offer corporate bonds. These currency yie
 Questions:
 - What are the tax implications, since this is a Philippine instrument? Probably subject to 20% capital gains tax.
 
+### Private Equity
+
+These are like mutual funds but for private companies. Higher buy-in. Look into this more when more funds to spare.
+
 ### Bitcoin
 
-Though bitcoin is a non-yielding asset, in the world of negative interest rates and central bank policies of flooding the economy with money, having a hard-capped supply (only 21 million bitcoins will exist, ever), immutable, global (fairly liquid in many markets), and decentralized (no one controls it, censorship-resistant) store of value is increasingly being perceived as an insurance policy against inflation (or credit deflation if you will).
+Though bitcoin is a non-yielding asset, in the world of negative interest rates and central bank policies of flooding the economy with money, having a hard-capped supply (only 21 million bitcoins will exist, ever), immutable (your balance can't be changed like a bank can change your account balace), global (fairly liquid in many markets), and decentralized (no one controls it, censorship-resistant) store of value is increasingly being perceived as an insurance policy against inflation (or credit deflation if you will).
 
 I'm bullish on bitcoin in the short term, and and in the long term. I owe you an explanation here, and I will put it on a [separate document](bitcoin.md).
 
