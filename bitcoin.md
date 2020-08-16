@@ -1,4 +1,3 @@
-
 # Bitcoin
 
 When I first discovered (and subsequently ignored for a year) Bitcoin in 2011, I asked myself "what is money?". This question led me down a rabbit hole.
@@ -21,6 +20,8 @@ Money contributes to the rise and fall of empires. Those in power have always in
 
 As always, there are some people that see the writing on the wall, and these people move to a better form of money. This is the Gresham Law, in effect. It is this movement we're seeing today: people are moving to a better form of money fit for our modern times.
 
+# Is the world interested?
+
 Will people move to bitcoin? They are. Will the central banks of the world have bitcoin in their balance sheets like they have gold? I do not know.
 
 In one respect, I doubt it. They will likely create a version of [Bancor](https://en.wikipedia.org/wiki/Bancor) for the 21st century, because they want to be in control of the money supply and continue their mission on this earth.
@@ -30,6 +31,8 @@ However, Bitcoin is a grassroots movement, and government is made up of individu
 Even if bitcoin stays a grassroots movement, it will have a non-zero role in when there's another currency collapse / reserve currency regime change.
 
 "It's too risky" is a common response. Shouldn't risk be managed by allocating a smaller amount? If your financial advisor tells you to stay away from Bitcoin, they are either too lazy to learn more about it, or do not know how to manage risk & reward. It has been the best performing asset of the last decade. 0% allocation is the wrong answer.
+
+# Bitcoin as Money
 
 I think Bitcoin is the most likely winner for a grassroots chosen money because it scores well for the qualities of money.
 
