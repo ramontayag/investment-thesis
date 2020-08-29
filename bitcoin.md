@@ -47,7 +47,7 @@ I think Bitcoin is the most likely winner for a grassroots chosen money because 
 - Censorship resistant. You only need an internet connection to send bitcoin. You do not need anyone's permission. You do not need to submit identifying documents to hold it. Those that know how have side-stepped the authoritarian capital controls in countries like Venezuela and Argentina, notorious for the current currency collapse.
 - Counterfeit-proof.
   - You can't create a fake bitcoin.
-  - It is also trivially easy to proove of reserves: you can be mathematically proove certain of the bitcoins they held in a bank and have a control over. If [rehypthecation](https://www.investopedia.com/terms/r/rehypothecation.asp) is part of the business model, you can know for certain what amount institutions have in custody.
+  - It is also trivially easy to prove of reserves: you can be mathematically prove certain of the bitcoins they held in a bank and have a control over. If [rehypthecation](https://www.investopedia.com/terms/r/rehypothecation.asp) is part of the business model, you can know for certain what amount institutions have in custody.
 
 See this chart:
 
