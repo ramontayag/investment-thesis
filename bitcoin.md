@@ -18,7 +18,7 @@ The economy is the forest. The trees are the entrepreneurs and companies. The dr
 
 Money contributes to the rise and fall of empires. Those in power have always inflated the money supply until its collapse. First the inflation is negligible, then it is bearable, then for its finale, inflation leaves you in the dust.
 
-As always, there are some people that see the writing on the wall, and these people move to a better form of money. This is the Gresham Law, in effect. It is this movement we're seeing today: people are moving to a better form of money fit for our modern times.
+As always, there are some people that see the writing on the wall, and these people move to a better form of money. This is Gresham's Law, in effect. It is this movement we're seeing today: people are moving to a better form of money fit for our modern times.
 
 Bitcoin is a [store of wealth, not an investment](https://twitter.com/saifedean/status/1291699962074587137?s=20) (yes, I'd still the phrase "invest in bitcoin"). It does not generate cashflow.
 
@@ -67,6 +67,6 @@ Here are the articles I find most relevant, though these are far from everything
 - Quantitative investor: [Modeling Bitcoin Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
 - Millenial affected by wealth gap: [The Most Peaceful Revolution](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
 - Macro investor: Paul Tudor Jones II's letter to his investors: [The Great Monetary Inflation](https://www.docdroid.net/H1fuimX/the-great-monetary-inflation-pdf#page=6)
-- Austrian economist / gold enthusiast: [The Bitcoin Standard](https://amzn.to/2TLl5RP)
+- Austrian economist / gold backed currency PoV: [The Bitcoin Standard](https://amzn.to/2TLl5RP)
 
 If you liked these, see [bitcoin-resources.com](https://bitcoin-resources.com/).
