@@ -19,11 +19,6 @@ This is a work in progress, and will be updated as I learn more. You may find se
 ## What amount am I looking to invest?
 The kind of of advice you give depends on the amounts a person is looking to invest. This document will contain investment vehicles that are applicable, but not limited to, investments from $10,000 to $5,000,000+.
 
-## What are my amounts?
-I have an amount that I have put to work now. I have found places to lend this money that return from 4% to 8% per annum.
-
-As you know, I also have bitcoin. If bitcoin follows its pattern, and there is no guarantee that it will, then by mid to end of 2021 it will reach a new high. The reason I have approached you is in case this occurs, I don't want to be caught asleep on the wheel. I intend to sell a portion of what I have and put that money to work. If bitcoin does not shoot up again, the knowledge I learn here will still be put to use, though it will play out over a longer timeframe.
-
 ## Investing
 
 ### Definition (not dictionary)
