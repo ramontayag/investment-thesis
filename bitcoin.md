@@ -12,15 +12,17 @@ Money affects how we plan for the future - as individuals or as actors of the st
 
 Ray Dalio has the best video I've seen explaining the [economic machine](https://www.youtube.com/watch?v=PHe0bXAIuk0): debt is money we borrow from out future selves, and this causes us to have to tighten our our belts in the future and contract our spending, causing boom and bust cycles. He delves into details in [Big Debt Crises](https://www.principles.com/big-debt-crises/), explaining how this happens time and again.
 
-Central bank manipulation of money causes these cycles to be exaggerated. Good times are the Roarin' Twenties and bad times are Great Depressions. In modern times, central banks around the world claim to be managing these boom and bust cycles through interest rate manipulation, but more and more people see that what central banks are doing is unsustainable. We are taking in more debt than we ever have, and this means we will have bigger busts than we ever have. Central banks suppress naturally occuring forest fires, that had they occurred in small and natural scales, would have cleansed the forests of small twigs and dried material that would make fires hot enough to kill the forest completely.
+Central bank manipulation of money, by taking on debt, becomes less and less effective especially if the debt is never fully paid off. In other words, if debt keeps piling on, becoming a larger and larger part of a country's GDP, then the more fiscal stimulation -- QE or whatever you want to call it -- needs to occur to have the similar effects. At some point, the economy will overdose on debt in the form of inflation, credit deflation, and/or stagflation.
 
-The economy is the forest. The trees are the entrepreneurs and companies. The dried material are the zombie companies and whole industries feeding off misallocated capital funnelled to them by the central banks.
+# Empires & Money
 
-Money contributes to the rise and fall of empires. Those in power have always inflated the money supply until its collapse. First the inflation is negligible, then it is bearable, then for its finale, inflation leaves you in the dust.
+Money contributes to the rise and fall of empires. Those in power have almost always inflated the money supply until its collapse. This has been a recurring theme throughout history, from coin clipping to what we see today, which is the press of a button to manipulate 1's and 0's.
+
+With today's form of money printing, which is through debt, official (CPI) inflation is negligible, then it is bearable, then for its finale, inflation leaves you in the dust. Inflation is correlated with the fall of empires.
+
+Even if there is no hyperinflation as in Weimar Republic and Zumbabwe, the use of debt to simulate the economy will eventually cause the economy to be in a vegetative state, like Japan.
 
 As always, there are some people that see the writing on the wall, and these people move to a better form of money. This is Gresham's Law, in effect. It is this movement we're seeing today: people are moving to a better form of money fit for our modern times.
-
-Bitcoin is a [store of wealth, not an investment](https://twitter.com/saifedean/status/1291699962074587137?s=20) (yes, I'd still the phrase "invest in bitcoin"). It does not generate cashflow.
 
 # Is the world interested?
 
@@ -41,7 +43,6 @@ I think Bitcoin is the most likely winner for a grassroots chosen money because 
 - Verifiable. Verifying bitcoin is much easier to verify gold. You can verify it with a smartphone.
 - Fungible. A bitcoin is the same as any other bitcoin.
 - Portable. I can memorize my wealth in my head and cross borders. You can send it to anyone with an internet connection. It is being used for remittances especially in recipient countries with unreliable financial systems.
-- Durable. Bitcoin is information, and information cannot be destroyed. You may lose your private keys, but creating a plan to keep these safe, though not easy, is far easier than storing a cloest of gold bricks.
 - Durable. Bitcoin is information, and information cannot be destroyed. You may lose your private keys, but creating a plan to keep these safe, though not easy, is far easier than storing a closet of gold bricks.
 - Divisible. A bitcoin can be infinitely subdivided into smaller and smaller parts.
 - Scarce. Only 21 million bitcoin will ever exist. Today, there are about 36 million $ millionaires. Each of them couldn't even buy 1 bitcoin, even if they wanted to.
