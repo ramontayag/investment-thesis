@@ -42,6 +42,7 @@ I think Bitcoin is the most likely winner for a grassroots chosen money because 
 - Fungible. A bitcoin is the same as any other bitcoin.
 - Portable. I can memorize my wealth in my head and cross borders. You can send it to anyone with an internet connection. It is being used for remittances especially in recipient countries with unreliable financial systems.
 - Durable. Bitcoin is information, and information cannot be destroyed. You may lose your private keys, but creating a plan to keep these safe, though not easy, is far easier than storing a cloest of gold bricks.
+- Durable. Bitcoin is information, and information cannot be destroyed. You may lose your private keys, but creating a plan to keep these safe, though not easy, is far easier than storing a closet of gold bricks.
 - Divisible. A bitcoin can be infinitely subdivided into smaller and smaller parts.
 - Scarce. Only 21 million bitcoin will ever exist. Today, there are about 36 million $ millionaires. Each of them couldn't even buy 1 bitcoin, even if they wanted to.
 - Censorship resistant. You only need an internet connection to send bitcoin. You do not need anyone's permission. You do not need to submit identifying documents to hold it. Those that know how have side-stepped the authoritarian capital controls in countries like Venezuela and Argentina, notorious for the current currency collapse.
