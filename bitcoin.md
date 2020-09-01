@@ -20,7 +20,7 @@ Money contributes to the rise and fall of empires. Those in power have almost al
 
 With today's form of money printing, which is through debt, official (CPI) inflation is negligible, then it is bearable, then for its finale, inflation leaves you in the dust. Inflation is correlated with the fall of empires.
 
-Even if there is no hyperinflation as in Weimar Republic and Zumbabwe, the use of debt to simulate the economy will eventually cause the economy to be in a vegetative state, like Japan.
+Even if there is no hyperinflation as in Weimar Republic and Zimbabwe, the use of debt to simulate the economy will eventually cause the economy to be in a vegetative state, like Japan.
 
 As always, there are some people that see the writing on the wall, and these people move to a better form of money. This is Gresham's Law, in effect. It is this movement we're seeing today: people are moving to a better form of money fit for our modern times.
 
